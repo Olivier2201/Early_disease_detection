@@ -78,7 +78,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/early_disease_detection.git
+git clone https://github.com/Olivier2201/early_disease_detection.git
 cd early_disease_detection
 Create and Activate a Virtual Environment:
 
